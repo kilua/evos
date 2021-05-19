@@ -2,6 +2,7 @@
 
 First, run the development server:
 
+change code in .env NEXT_PUBLIC_ROOT_DOMAIN from https://evos.vercel.app to http://localhost:3000 if running in local
 ```bash
 yarn dev or yarn start
 ```
